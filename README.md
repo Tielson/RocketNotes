@@ -34,7 +34,7 @@
 
 ## About
 
-- Projeto frot-end criado com ReactJs.
+- Projeto feito a partir do figma criado com ReactJs.
 
 - Frameworks utilizados :
 
