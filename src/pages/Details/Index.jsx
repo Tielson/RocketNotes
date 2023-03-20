@@ -23,6 +23,7 @@ export function Details() {
   function handleBack() {
     navigate(-1)
   }
+  
   async function handleRemoveNotes() {
     const confirm = window.confirm("Deseja realmente remover a nota?")
     if (confirm) {
@@ -42,7 +43,9 @@ export function Details() {
 
   return (
     <Container>
+
       <Header />
+
       {
         data &&
         <main>
