@@ -15,6 +15,7 @@
 
 
 
+
 <p align="center">
 	<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
 </p>
@@ -45,6 +46,8 @@
   - React Icons
 
   - Styled-components
+  
+  Deploy: https://rocket-notes-murex.vercel.app/
 
     
 
