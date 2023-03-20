@@ -29,7 +29,7 @@ export function Details() {
     if (confirm) {
       const response = await api.delete(`/notes/${params.id}`)
       navigate(-1)
-      setData(response.data)
+      setData(response.data) 
     }
   }
 
