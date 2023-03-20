@@ -35,7 +35,7 @@ export function Home() {
   }
 
   function handleDetails(id) {
-    navigate(`/Details/${id}`)
+    navigate(`/details/${id}`)
   }
 
   useEffect(() => {
@@ -110,7 +110,7 @@ export function Home() {
 
       </Content>
 
-      <NewNote to="/New">
+      <NewNote to="/new">
         <FiPlus />
         Criar Nota
       </NewNote>
